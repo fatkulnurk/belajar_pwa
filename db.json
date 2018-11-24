@@ -1,0 +1,23 @@
+{
+"products":[
+{"id":1,"name":"Caracara (unidentified)","category":"Indigo"},
+{"id":2,"name":"Squirrel, smith's bush","category":"Pink"},
+{"id":3,"name":"Sage grouse","category":"Pink"},
+{"id":4,"name":"Fox, pampa gray","category":"Aquamarine"},
+{"id":5,"name":"Egret, cattle","category":"Mauv"},
+{"id":6,"name":"Yellow baboon","category":"Purple"},
+{"id":7,"name":"Giant anteater","category":"Orange"},
+{"id":8,"name":"Reedbuck, bohor","category":"Red"},
+{"id":9,"name":"Albatross, waved","category":"Green"},
+{"id":10,"name":"Polecat, african","category":"Pink"},
+{"id":11,"name":"Fox, asian red","category":"Puce"},
+{"id":12,"name":"Kangaroo, black-faced","category":"Crimson"},
+{"id":13,"name":"Black vulture","category":"Teal"},
+{"id":14,"name":"White-tailed deer","category":"Puce"},
+{"id":15,"name":"Tiger cat","category":"Yellow"},
+{"id":16,"name":"Squirrel, nelson ground","category":"Aquamarine"},
+{"id":17,"name":"Red deer","category":"Orange"},
+{"id":18,"name":"Spotted deer","category":"Turquoise"},
+{"id":19,"name":"House crow","category":"Khaki"},
+{"id":20,"name":"Caracara (unidentified)","category":"Violet"}]
+}
