@@ -1,6 +1,6 @@
 # belajar_pwa
 
-* Data Summy
+* Data dummy
 https://www.mockaroo.com/
 
 * Fake Api Server
